@@ -1,0 +1,136 @@
+header {
+    display: flex;
+    background-color:#e0e0e0;
+    width: 100%;
+    height: 150px;
+    justify-content: left;
+    align-items: center;
+}
+
+#logo {
+    height: 100px;
+    width: auto;
+}
+
+footer {
+    background-color: #cbcccb;
+    width: 100%;
+    height: 75px;
+    text-align: center;
+    font-size: 21px;
+}
+
+td {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 250px
+}
+
+/* Andere achtergrondkleur per cel*/
+
+#cel1 {
+    background-color: #eaefd1;
+}
+
+#cel2 {
+    background-color:#e4ebc5;
+}
+
+#cel3 {
+    background-color: #dee6b9;
+}
+
+#cel4 {
+    background-color: #d9e2ad;
+}
+
+#cel5 {
+    background-color: #d3dea1;
+}
+
+#cel6 {
+    background-color: #ceda94;
+}
+
+#cel7 {
+    background-color: #c8d688;
+}
+
+#cel8 {
+    background-color: #c2d17c;
+}
+
+#cel9 {
+    background-color: #bdcd70;
+}
+
+#cel10 {
+    background-color: #b7c964;
+}
+
+#cel11 {
+    background-color: #b2c558;
+}
+
+#cel12 {
+    background-color: #acc14c;
+}
+
+#cel13 {
+    background-color: #a6bb41;
+}
+
+#cel14 {
+    background-color: #9baf3c;
+}
+
+#cel15 {
+    background-color: #90a338;
+}
+
+#cel16 {
+    background-color: #869734;
+}
+
+/*Andere achtergrondkleuren voor de tekst in de cellen van de tabel. 
+Gezien er achtergrondkleur van de tekst staat in de opdracht en niet tekstkleur zelf heb ik dus elke cel met tekst ook een ID gegeven.
+Het is een beetje omslachtig deze opdracht. Maar mochten ze tekstkleur bedoeld hebben dan begrijp ik dat ik dat in de ID's van de cellen zelf mee had kunnen nemen met stylen.
+Dit is dus niet korter op te schrijven gezien elke cel andere code heeft neem ik aan?*/
+
+#text1 {
+    background-color: #f8f8f8;
+}
+
+#text3 {
+    background-color: #f0f0f0;
+}
+
+#text5 {
+    background-color: #e8e8e8;
+}
+
+#text7 {
+    background-color: #e0e0e0;
+}
+
+#text9 {
+    background-color: #d7d8d7;
+}
+
+#text11 {
+    background-color: #cfd0cf;
+}
+
+#text13 {
+    background-color: #c7c8c7;
+}
+
+#text15 {
+    background-color: #bfc0bf;
+}
+
